@@ -1,8 +1,8 @@
-### Olá, sou Paulo Vitor 👋
+### Hi, I'm Paulo Vitor 👋
 
-- Atualmente curso Ciência da Computação na UFRN
-- Sou formado em Bacharelado em Tecnologia de Informação na UFRN;
-- Sou formado Técnico em Informática pelo IFRN;
+- I am currently studying Computer Science at UFRN;
+- I hold a Bachelor’s degree in Information Technology from UFRN;
+- I hold a Technical degree in Informatics from IFRN.
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloVLB&layout=compact&langs_count=16&theme=dracula"/>
 
